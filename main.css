@@ -92,6 +92,8 @@ header h3 {
 
 .recipes {
     padding: 1em 1em 1em 1em;
+    margin: 0 auto;
+    justify-content: space-around;
 }
 
 .card img{
