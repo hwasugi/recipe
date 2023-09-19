@@ -84,6 +84,7 @@ header h3 {
     background-color: white;
     width: 35em;
     margin: 3em auto;
+    justify-content: space-around;
 }
 .home p{
     line-height: 1.4;
@@ -123,6 +124,7 @@ header h3 {
     background-color: white;
     width: 30em;
     margin: 3em auto;
+    justify-content: space-around;
 }
 
 .instructions {
