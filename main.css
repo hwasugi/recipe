@@ -83,7 +83,7 @@ header h3 {
     border: 3px solid pink;
     background-color: white;
     width: 35em;
-    margin: 3em 20em 3em 20em;
+    margin: 3em auto;
 }
 .home p{
     line-height: 1.4;
