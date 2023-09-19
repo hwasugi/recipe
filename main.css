@@ -79,10 +79,10 @@ header h3 {
 
 .home {
     text-align: center;
-    padding: 1.5em 3em 1.5em 3em;
+    padding: 2em 4em 2em 4em;
     border: 3px solid pink;
     background-color: white;
-    width: 35em;
+    width: 30em;
     margin: 3em auto;
     justify-content: space-around;
 }
